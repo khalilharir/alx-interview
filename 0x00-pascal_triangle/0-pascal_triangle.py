@@ -1,4 +1,6 @@
-scal_triangle
+#!/usr/bin/python3
+"""
+0-pascal_triangle
 """
 
 
